@@ -11,6 +11,8 @@
 	<groupId>net.javaguides</groupId>
 	<artifactId>springboot-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	
 	<name>springboot-backend</name>
 	<description>Spring Boot RESTful Web Services</description>
 	<properties>
